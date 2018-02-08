@@ -17,6 +17,8 @@
         android:textSize="20dp"
         android:textColor="@color/colorText"
         android:text="Escribe el mensaje que deseas enviar y oprime el boton compartir"
+        android:gravity="center"
+        android:layout_margin="20dp"
         android:layout_height="wrap_content" />
 
     <EditText
